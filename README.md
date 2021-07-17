@@ -1,4 +1,4 @@
-##ClientManager
+##Client
 
 #Requisitos
 -> Deve ser possível cadastrar novo cliente
