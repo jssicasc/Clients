@@ -1,4 +1,4 @@
-##Client
+##Customer Management
 
 #Requisitos:
 -> Deve ser possível cadastrar novo cliente;
